@@ -1,1 +1,1 @@
-# UAT_Test_Automation
+# HealthEdge_Project_Automation
